@@ -1,0 +1,34 @@
+# Ignore OneDrive directory
+OneDrive - University of St Andrews/
+
+# Ignore system files
+*.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.swn
+
+# Ignore user-specific files
+*.xml
+*.config
+*.ipynb_checkpoints/
+*.ipython/
+*.jupyter/
+*.lesshst
+*.matplotlib/
+*.vscode/
+*.DAT
+*.blf
+*.regtrans-ms
+
+# Ignore other directories
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
